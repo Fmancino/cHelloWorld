@@ -1,4 +1,4 @@
-# Hello World in C + makefile
+# Hello World in C with makefile
 
 Makefile for gcc. To compile and run:
 ```
